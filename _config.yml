@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
+title: Algorithm problems
+description: My personal blog for algorithms
+author: Khoa
+github: https://github.com/khoanguyenxuan
 about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+disqus_shortname: algorithmproblems
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
