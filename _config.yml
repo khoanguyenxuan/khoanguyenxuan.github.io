@@ -1,16 +1,11 @@
 title: Khoa Nguyen Xuan
 description: >-
-  Personal blog about software engineering, open source, and everything in between.
+  Security researcher obsessed with breaking things. Personal blog about
+  fuzzing for bugs, vulnerability research, and low-level engineering.
 author:
   name: Khoa Nguyen Xuan
   github: khoanguyenxuan
 baseurl: ""
 url: "https://khoanguyenxuan.github.io"
-theme: minima
-minima:
-  skin: auto
-  social_links:
-    github: khoanguyenxuan
-header_pages:
-  - index.md
-  - about.md
+theme: jekyll-theme-hacker
+show_downloads: false
