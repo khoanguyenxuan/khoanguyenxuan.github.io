@@ -1,3 +1,16 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Khoa Nguyen Xuan
+description: >-
+  Personal blog about software engineering, open source, and everything in between.
+author:
+  name: Khoa Nguyen Xuan
+  github: khoanguyenxuan
+baseurl: ""
+url: "https://khoanguyenxuan.github.io"
+theme: minima
+minima:
+  skin: auto
+  social_links:
+    github: khoanguyenxuan
+header_pages:
+  - index.md
+  - about.md
